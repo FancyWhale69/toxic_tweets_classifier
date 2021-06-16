@@ -2,6 +2,8 @@
 ## WARNING: due to the nature of the data there will be some swear words in the Data Visulaization section if you do not wish to view such words please skip the mentioned section.  
 
 My kaggle [notebook](https://www.kaggle.com/elitefrog/classify-tweets-acc-94)  
+[DashBoard](https://toxic-tweets.herokuapp.com/)  
+
 
 # Installation  
 to run the notebook you will need:  
